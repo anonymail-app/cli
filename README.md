@@ -16,7 +16,7 @@ git clone https://github.com/anonymail-app/cli.git
 ### Step 2:
 Go into the directory
 ```
-cd web
+cd cli
 ```
 
 ### Step 3:
